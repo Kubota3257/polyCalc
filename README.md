@@ -1,0 +1,2 @@
+# polyCalc
+Galois Field Operation
